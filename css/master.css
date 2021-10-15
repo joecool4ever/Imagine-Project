@@ -1,0 +1,27 @@
+#banner {
+  background-color: #D99197;
+}
+
+body {
+  background-color: #591C21;
+  font-family: 'Indie Flower', cursive;33eeeeee
+}
+
+.geekforce-red {
+  color: #BF213E;
+}
+
+.menu {
+  border: 5px solid black;
+  border-radius: 20%;
+  text-align: right;
+  width: fit-content;
+}
+
+#logo {
+  width: 100px;
+}
+
+form {
+  font-size: 40px;
+}
